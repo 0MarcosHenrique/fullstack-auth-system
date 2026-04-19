@@ -48,7 +48,7 @@ Developed to integrate with a React Front-End, this project represents a complet
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/0MarcosHenrique/API.git
+   git clone https://github.com/0MarcosHenrique/fullstack-auth-system.git
    cd fullstack-auth-system
 Install dependencies
 
