@@ -49,7 +49,7 @@ Developed to integrate with a React Front-End, this project represents a complet
 1. **Clone the repository**
    ```bash
    git clone https://github.com/0MarcosHenrique/API.git
-   cd API
+   cd fullstack-auth-system
 Install dependencies
 
 bash
